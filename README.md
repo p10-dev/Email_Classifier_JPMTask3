@@ -1,2 +1,2 @@
-# JPMorgan_VE_Program_Task3
-J.P.Morgan Cybersecurity Virtual Experience Program
+# Email_Classifier_JPMTask3
+This project involves training the machine across a set of spam and ham data to build an email classifier. Ham is "Non-spam".
